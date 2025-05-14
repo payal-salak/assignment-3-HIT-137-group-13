@@ -1,5 +1,9 @@
-
-
+# GROUP NAME : CAS/DAN GROUP-13
+# GROUP MEMBERS: 389249 PAYAL
+#                391075 AMANPARTEEK SINGH
+#                390786 ANSHUL
+#                361253 ASHTON SEARLE
+#                391273 KOMALPREET KAUR
 
 # Importing Required Libraries
 import pygame
