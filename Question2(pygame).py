@@ -1,3 +1,7 @@
+
+
+
+# Importing Required Libraries
 import pygame
 import random
 import sys
